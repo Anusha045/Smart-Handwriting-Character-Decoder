@@ -34,17 +34,4 @@ Data Handling: NumPy, Pandas
 
 Model Training: Custom datasets, IAM Handwriting Database, EMNIST
 
-## Architecture & Workflow
-
-Image Acquisition: Accepts handwritten text input via image upload or live capture.
-
-Preprocessing: Applies grayscale conversion, adaptive thresholding, noise filtering, skew correction, and normalization to enhance image quality.
-
-Segmentation: Segments text into characters or connected components using contour analysis and morphological operations.
-
-Recognition: Extracts features and predicts characters using a trained CNN-LSTM network.
-
-Post-Processing: Applies language models and spell-correction algorithms to refine recognized text.
-
-Output: Presents decoded text for user review and export.
 
