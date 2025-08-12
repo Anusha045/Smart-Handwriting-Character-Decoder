@@ -1,4 +1,4 @@
-Smart Handwriting Character Decoder
+*Smart Handwriting Character Decoder*
 Overview
 The Smart Handwriting Character Decoder is an advanced system engineered to convert handwritten characters into machine-readable digital text with high precision. Utilizing state-of-the-art image processing techniques combined with deep learning-based optical character recognition (OCR), this project aims to streamline the digitization of handwritten documents, notes, and forms across various applications.
 
