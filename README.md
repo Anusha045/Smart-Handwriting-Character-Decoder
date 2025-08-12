@@ -12,12 +12,6 @@ Comprehensive Preprocessing Pipeline: Includes noise reduction, binarization, sk
 
 Real-Time and Batch Processing: Supports both live handwriting input via camera and batch processing of scanned images.
 
-Scalable Multi-Language Support: Architected to facilitate easy extension to multiple languages and handwriting styles through transfer learning.
-
-User-Centric Interface: Intuitive front-end enabling users to upload images, view decoded output, and export results in various formats (TXT, PDF, DOCX).
-
-Post-Processing Enhancements: Integrates language modeling and spell-check modules to improve decoding accuracy and contextual relevance.
-
 ## Motivation
 
 Despite digital transformation, handwritten materials remain integral in education, healthcare, legal, and archival domains. Manual transcription is time-intensive and error-prone. This project addresses these challenges by providing an automated, accurate, and scalable handwriting-to-text solution that enhances workflow efficiency and data accessibility.
